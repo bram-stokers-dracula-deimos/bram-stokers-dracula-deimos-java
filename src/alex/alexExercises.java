@@ -1,3 +1,5 @@
+package alex;
+
 public class alexExercises {
     public static void main(String[] args) {
         System.out.println("FIBONACCI");
