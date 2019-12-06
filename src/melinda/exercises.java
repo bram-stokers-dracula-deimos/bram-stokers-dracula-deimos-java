@@ -1,6 +1,6 @@
-package alex;
+package melinda;
 
-public class alexExercises {
+public class exercises {
     public static void main(String[] args) {
         System.out.println("FIBONACCI");
         System.out.println(fibonacci(4));
